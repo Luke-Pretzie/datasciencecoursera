@@ -1,5 +1,3 @@
-## This is a markdown file
-
 ---
 title: "Template"
 author: "Luke Pretzie"
@@ -30,3 +28,5 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## This is a markdown file
