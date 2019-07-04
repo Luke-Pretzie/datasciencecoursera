@@ -1,9 +1,4 @@
----
-output:
-  word_document: default
-  pdf_document: default
-  html_document: default
----
+## This is a markdown file
 
 ---
 title: "Template"
@@ -35,5 +30,3 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-## This is a markdown file
